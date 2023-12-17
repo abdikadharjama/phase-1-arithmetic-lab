@@ -20,6 +20,7 @@ describe('index.js', function() {
       expect(num3).to.be.a('number')
       expect(num4).to.be.a('number')
       expect(mod).to.eq(4)
+      
     });
   });
   describe('max', function() {
